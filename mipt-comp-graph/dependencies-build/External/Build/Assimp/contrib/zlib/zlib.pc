@@ -1,0 +1,13 @@
+prefix=/Users/spotapova/mipt-comp-graph/dependencies-install
+exec_prefix=/Users/spotapova/mipt-comp-graph/dependencies-install
+libdir=
+sharedlibdir=
+includedir=
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.8
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

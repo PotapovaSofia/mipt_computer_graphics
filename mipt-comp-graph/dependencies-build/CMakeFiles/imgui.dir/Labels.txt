@@ -1,0 +1,13 @@
+# Target labels
+ imgui
+# Source files and their labels
+/Users/spotapova/mipt-comp-graph/dependencies-build/CMakeFiles/imgui
+/Users/spotapova/mipt-comp-graph/dependencies-build/CMakeFiles/imgui.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/CMakeFiles/imgui-complete.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/imgui/imgui-install.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/imgui/imgui-mkdir.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/imgui/imgui-download.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/imgui/imgui-update.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/imgui/imgui-patch.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/imgui/imgui-configure.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/imgui/imgui-build.rule

@@ -1,0 +1,8 @@
+/Users/spotapova/mipt-comp-graph/dependencies-build/CMakeFiles/rebuild_cache.dir
+/Users/spotapova/mipt-comp-graph/dependencies-build/CMakeFiles/edit_cache.dir
+/Users/spotapova/mipt-comp-graph/dependencies-build/CMakeFiles/GLEW.dir
+/Users/spotapova/mipt-comp-graph/dependencies-build/CMakeFiles/Assimp.dir
+/Users/spotapova/mipt-comp-graph/dependencies-build/CMakeFiles/SOIL.dir
+/Users/spotapova/mipt-comp-graph/dependencies-build/CMakeFiles/imgui.dir
+/Users/spotapova/mipt-comp-graph/dependencies-build/CMakeFiles/GLM.dir
+/Users/spotapova/mipt-comp-graph/dependencies-build/CMakeFiles/GLFW.dir

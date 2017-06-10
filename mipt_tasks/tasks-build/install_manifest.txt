@@ -1,0 +1,10 @@
+/Users/spotapova/graphics/tasks-install/task1/394Potapova1
+/Users/spotapova/graphics/tasks-install/task1/394PotapovaData/.DS_Store
+/Users/spotapova/graphics/tasks-install/task1/394PotapovaData/shader.frag
+/Users/spotapova/graphics/tasks-install/task1/394PotapovaData/shaderNormal.vert
+/Users/spotapova/graphics/tasks-install/task2/394Potapova2
+/Users/spotapova/graphics/tasks-install/task2/394PotapovaData/.DS_Store
+/Users/spotapova/graphics/tasks-install/task2/394PotapovaData/beton.jpeg
+/Users/spotapova/graphics/tasks-install/task2/394PotapovaData/marble.jpeg
+/Users/spotapova/graphics/tasks-install/task2/394PotapovaData/texture.frag
+/Users/spotapova/graphics/tasks-install/task2/394PotapovaData/texture.vert

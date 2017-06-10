@@ -1,0 +1,14 @@
+# Target labels
+ GLEW
+# Source files and their labels
+/Users/spotapova/mipt-comp-graph/dependencies-build/CMakeFiles/GLEW
+/Users/spotapova/mipt-comp-graph/dependencies-build/CMakeFiles/GLEW.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/CMakeFiles/GLEW-complete.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/GLEW/GLEW-install.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/GLEW/GLEW-mkdir.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/GLEW/GLEW-download.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/GLEW/GLEW-update.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/GLEW/GLEW-patch.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/GLEW/GLEW-configure.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/GLEW/GLEW-build.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/GLEW/GLEW-extract.rule

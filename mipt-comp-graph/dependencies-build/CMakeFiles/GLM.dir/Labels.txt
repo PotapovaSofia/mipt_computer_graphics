@@ -1,0 +1,13 @@
+# Target labels
+ GLM
+# Source files and their labels
+/Users/spotapova/mipt-comp-graph/dependencies-build/CMakeFiles/GLM
+/Users/spotapova/mipt-comp-graph/dependencies-build/CMakeFiles/GLM.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/CMakeFiles/GLM-complete.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/GLM/GLM-install.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/GLM/GLM-mkdir.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/GLM/GLM-download.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/GLM/GLM-update.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/GLM/GLM-patch.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/GLM/GLM-configure.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/GLM/GLM-build.rule

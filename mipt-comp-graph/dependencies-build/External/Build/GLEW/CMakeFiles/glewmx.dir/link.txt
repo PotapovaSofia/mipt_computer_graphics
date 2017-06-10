@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -O3 -DNDEBUG -dynamiclib -Wl,-headerpad_max_install_names  -o lib/libGLEWmx.dylib -install_name /Users/spotapova/mipt-comp-graph/dependencies-build/External/Build/GLEW/lib/libGLEWmx.dylib CMakeFiles/glewmx.dir/Users/spotapova/mipt-comp-graph/dependencies-build/External/Source/glew-1.13.0/src/glew.o -framework OpenGL 

@@ -1,0 +1,11 @@
+prefix=/Users/spotapova/mipt-comp-graph/dependencies-install
+exec_prefix=/Users/spotapova/mipt-comp-graph/dependencies-install/bin
+libdir=/Users/spotapova/mipt-comp-graph/dependencies-install/lib
+includedir=/Users/spotapova/mipt-comp-graph/dependencies-install/include/assimp
+
+Name: Assimp
+Description: Import various well-known 3D model formats in an uniform manner.
+Version: 3.3.1
+Libs: -L${libdir} -lassimp
+Libs.private:  
+Cflags: -I${includedir}

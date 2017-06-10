@@ -1,0 +1,51 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Build/Assimp/test/CMakeFiles/gtest"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Build/Assimp/test/CMakeFiles/gtest.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Build/Assimp/test/CMakeFiles/gtest-complete.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Build/Assimp/test/gtest/src/gtest-stamp/gtest-install.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Build/Assimp/test/gtest/src/gtest-stamp/gtest-mkdir.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Build/Assimp/test/gtest/src/gtest-stamp/gtest-download.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Build/Assimp/test/gtest/src/gtest-stamp/gtest-update.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Build/Assimp/test/gtest/src/gtest-stamp/gtest-patch.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Build/Assimp/test/gtest/src/gtest-stamp/gtest-configure.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Build/Assimp/test/gtest/src/gtest-stamp/gtest-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "gtest" ],
+		"name" : "gtest"
+	}
+}

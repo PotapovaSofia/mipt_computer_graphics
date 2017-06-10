@@ -1,0 +1,5 @@
+/Users/spotapova/mipt-comp-graph/dependencies-install/lib/libsoil.a
+/Users/spotapova/mipt-comp-graph/dependencies-install/include/SOIL2.h
+/Users/spotapova/mipt-comp-graph/dependencies-install/lib/cmake/soil/soilTargets.cmake
+/Users/spotapova/mipt-comp-graph/dependencies-install/lib/cmake/soil/soilTargets-release.cmake
+/Users/spotapova/mipt-comp-graph/dependencies-install/lib/cmake/soil/soilConfig.cmake

@@ -1,0 +1,86 @@
+cmake_minimum_required(VERSION 3.0)
+
+project(GraphicsSamples VERSION 3.0)
+
+set_property(GLOBAL PROPERTY USE_FOLDERS ON)
+set_property(GLOBAL PROPERTY PREDEFINED_TARGETS_FOLDER "CMake Targets")
+
+set(CMAKE_DEBUG_POSTFIX "d")
+set(CMAKE_MODULE_PATH "${PROJECT_SOURCE_DIR}/cmake")
+
+include(MacroUtils)
+
+option(USE_AUTO_DEPENDENCIES "Enable to use auto built dependencies" ON)
+set(DEPENDENCIES_ROOT CACHE PATH "Dependencies install path")
+if(USE_AUTO_DEPENDENCIES)
+    if(DEPENDENCIES_ROOT)
+        set(CMAKE_PREFIX_PATH ${DEPENDENCIES_ROOT})
+        find_package(glew CONFIG)
+        find_package(glfw3 CONFIG)
+        find_package(glm CONFIG)
+        find_package(assimp)
+        find_package(soil CONFIG)
+        find_package(imgui CONFIG)
+    else()
+        message("DEPENDENCIES_ROOT is not set")
+    endif()
+else()
+    find_package(glew CONFIG)
+    find_package(glfw3 CONFIG)
+    find_package(glm CONFIG)
+    find_package(assimp)
+    find_package(soil CONFIG)
+    find_package(imgui CONFIG)
+endif()
+
+find_package(OculusSDK QUIET)
+
+if(UNIX)
+    set(CMAKE_INSTALL_RPATH "${DEPENDENCIES_ROOT}/lib")
+endif()
+
+add_subdirectory(seminar0)
+add_subdirectory(seminar1)
+add_subdirectory(seminar2)
+add_subdirectory(seminar3)
+add_subdirectory(seminar4)
+add_subdirectory(seminar5)
+add_subdirectory(seminar6)
+add_subdirectory(seminar7)
+add_subdirectory(seminar8)
+add_subdirectory(seminar9)
+add_subdirectory(seminar10)
+add_subdirectory(seminar11)
+
+install(DIRECTORY ${PROJECT_SOURCE_DIR}/images/ DESTINATION ${CMAKE_INSTALL_PREFIX}/images)
+install(DIRECTORY ${PROJECT_SOURCE_DIR}/shaders/ DESTINATION ${CMAKE_INSTALL_PREFIX}/shaders)
+
+# Здесь нужные библиотеки (dll) копируются из папки с зависимостями в папку install для примеров
+if(WIN32)
+    get_property(GLFW_LOCATION_DEBUG TARGET glfw PROPERTY IMPORTED_LOCATION_DEBUG)
+    if(GLFW_LOCATION_DEBUG)
+        install(FILES ${GLFW_LOCATION_DEBUG} DESTINATION ${CMAKE_INSTALL_PREFIX})
+    else()
+        message("GLFW_LOCATION_DEBUG is empty")
+    endif()
+
+    get_property(GLFW_LOCATION_RELEASE TARGET glfw PROPERTY IMPORTED_LOCATION_RELEASE)
+    if(GLFW_LOCATION_RELEASE)
+        install(FILES ${GLFW_LOCATION_RELEASE} DESTINATION ${CMAKE_INSTALL_PREFIX})
+    else()
+        message("GLFW_LOCATION_RELEASE is empty")
+    endif()
+
+    install(FILES ${DEPENDENCIES_ROOT}/bin/assimp-${ASSIMP_MSVC_VERSION}-mtd.dll DESTINATION ${CMAKE_INSTALL_PREFIX})
+    install(FILES ${DEPENDENCIES_ROOT}/bin/assimp-${ASSIMP_MSVC_VERSION}-mt.dll DESTINATION ${CMAKE_INSTALL_PREFIX})
+endif(WIN32)
+
+############################################
+
+file(GLOB STUDENTS students/*)
+foreach(STUDENT ${STUDENTS})
+    if(IS_DIRECTORY ${STUDENT})
+        message("Student task found " ${STUDENT})
+        add_subdirectory("${STUDENT}")
+    endif()
+endforeach()

@@ -1,0 +1,13 @@
+# Target labels
+ SOIL
+# Source files and their labels
+/Users/spotapova/mipt-comp-graph/dependencies-build/CMakeFiles/SOIL
+/Users/spotapova/mipt-comp-graph/dependencies-build/CMakeFiles/SOIL.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/CMakeFiles/SOIL-complete.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/SOIL/SOIL-install.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/SOIL/SOIL-mkdir.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/SOIL/SOIL-download.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/SOIL/SOIL-update.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/SOIL/SOIL-patch.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/SOIL/SOIL-configure.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/SOIL/SOIL-build.rule

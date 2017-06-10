@@ -1,0 +1,16 @@
+data/imgui_internal.h.i
+data/imgui_impl_glfw_gl3.h.i
+data/imconfig.h.i
+data/imgui.cpp.i
+data/imgui.h.i
+data/imgui_impl_glfw_gl3.cpp.i
+data/stb_rect_pack.h.i
+data/stb_textedit.h.i
+data/imguiConfig.cmake.i
+data/imgui_draw.cpp.i
+data/.hgignore.i
+data/stb_truetype.h.i
+data/imgui_demo.cpp.i
+data/LICENSE.i
+data/README.md.i
+data/CMakeLists.txt.i

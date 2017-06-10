@@ -1,0 +1,51 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/CMakeFiles/SOIL"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/CMakeFiles/SOIL.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/CMakeFiles/SOIL-complete.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/SOIL/SOIL-install.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/SOIL/SOIL-mkdir.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/SOIL/SOIL-download.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/SOIL/SOIL-update.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/SOIL/SOIL-patch.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/SOIL/SOIL-configure.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/SOIL/SOIL-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "SOIL" ],
+		"name" : "SOIL"
+	}
+}

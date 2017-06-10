@@ -1,0 +1,51 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/CMakeFiles/GLFW"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/CMakeFiles/GLFW.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/CMakeFiles/GLFW-complete.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/GLFW/GLFW-install.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/GLFW/GLFW-mkdir.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/GLFW/GLFW-download.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/GLFW/GLFW-update.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/GLFW/GLFW-patch.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/GLFW/GLFW-configure.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/GLFW/GLFW-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "GLFW" ],
+		"name" : "GLFW"
+	}
+}

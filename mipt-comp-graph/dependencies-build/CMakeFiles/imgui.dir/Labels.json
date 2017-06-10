@@ -1,0 +1,51 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/CMakeFiles/imgui"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/CMakeFiles/imgui.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/CMakeFiles/imgui-complete.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/imgui/imgui-install.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/imgui/imgui-mkdir.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/imgui/imgui-download.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/imgui/imgui-update.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/imgui/imgui-patch.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/imgui/imgui-configure.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/imgui/imgui-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "imgui" ],
+		"name" : "imgui"
+	}
+}

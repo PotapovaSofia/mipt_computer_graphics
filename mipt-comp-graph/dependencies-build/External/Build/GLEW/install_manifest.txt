@@ -1,0 +1,13 @@
+/Users/spotapova/mipt-comp-graph/dependencies-install/lib/libGLEW.dylib
+/Users/spotapova/mipt-comp-graph/dependencies-install/lib/libGLEWmx.dylib
+/Users/spotapova/mipt-comp-graph/dependencies-install/lib/libGLEW.a
+/Users/spotapova/mipt-comp-graph/dependencies-install/lib/libGLEWmx.a
+/Users/spotapova/mipt-comp-graph/dependencies-install/lib/pkgconfig/glew.pc
+/Users/spotapova/mipt-comp-graph/dependencies-install/lib/pkgconfig/glewmx.pc
+/Users/spotapova/mipt-comp-graph/dependencies-install/include/GL/wglew.h
+/Users/spotapova/mipt-comp-graph/dependencies-install/include/GL/glew.h
+/Users/spotapova/mipt-comp-graph/dependencies-install/include/GL/glxew.h
+/Users/spotapova/mipt-comp-graph/dependencies-install/lib/cmake/glew/glew-targets.cmake
+/Users/spotapova/mipt-comp-graph/dependencies-install/lib/cmake/glew/glew-targets-release.cmake
+/Users/spotapova/mipt-comp-graph/dependencies-install/lib/cmake/glew/glew-config.cmake
+/Users/spotapova/mipt-comp-graph/dependencies-install/lib/cmake/glew/CopyImportedTargetProperties.cmake

@@ -1,0 +1,55 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/CMakeFiles/GLEW"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/CMakeFiles/GLEW.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/CMakeFiles/GLEW-complete.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/GLEW/GLEW-install.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/GLEW/GLEW-mkdir.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/GLEW/GLEW-download.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/GLEW/GLEW-update.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/GLEW/GLEW-patch.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/GLEW/GLEW-configure.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/GLEW/GLEW-build.rule"
+		},
+		
+		{
+			"file" : "/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/GLEW/GLEW-extract.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "GLEW" ],
+		"name" : "GLEW"
+	}
+}

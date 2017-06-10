@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc lib/libGLEWmx.a  CMakeFiles/glewmx_s.dir/Users/spotapova/mipt-comp-graph/dependencies-build/External/Source/glew-1.13.0/src/glew.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib lib/libGLEWmx.a

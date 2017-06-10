@@ -1,0 +1,13 @@
+# Target labels
+ GLFW
+# Source files and their labels
+/Users/spotapova/mipt-comp-graph/dependencies-build/CMakeFiles/GLFW
+/Users/spotapova/mipt-comp-graph/dependencies-build/CMakeFiles/GLFW.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/CMakeFiles/GLFW-complete.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/GLFW/GLFW-install.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/GLFW/GLFW-mkdir.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/GLFW/GLFW-download.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/GLFW/GLFW-update.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/GLFW/GLFW-patch.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/GLFW/GLFW-configure.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/GLFW/GLFW-build.rule

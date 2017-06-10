@@ -1,0 +1,10 @@
+/Users/spotapova/mipt-comp-graph/dependencies-install/include/GLFW/glfw3.h
+/Users/spotapova/mipt-comp-graph/dependencies-install/include/GLFW/glfw3native.h
+/Users/spotapova/mipt-comp-graph/dependencies-install/lib/cmake/glfw3/glfw3Config.cmake
+/Users/spotapova/mipt-comp-graph/dependencies-install/lib/cmake/glfw3/glfw3ConfigVersion.cmake
+/Users/spotapova/mipt-comp-graph/dependencies-install/lib/cmake/glfw3/glfw3Targets.cmake
+/Users/spotapova/mipt-comp-graph/dependencies-install/lib/cmake/glfw3/glfw3Targets-release.cmake
+/Users/spotapova/mipt-comp-graph/dependencies-install/lib/pkgconfig/glfw3.pc
+/Users/spotapova/mipt-comp-graph/dependencies-install/lib/libglfw.3.2.dylib
+/Users/spotapova/mipt-comp-graph/dependencies-install/lib/libglfw.3.dylib
+/Users/spotapova/mipt-comp-graph/dependencies-install/lib/libglfw.dylib

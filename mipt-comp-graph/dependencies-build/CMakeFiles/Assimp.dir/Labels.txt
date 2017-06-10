@@ -1,0 +1,13 @@
+# Target labels
+ Assimp
+# Source files and their labels
+/Users/spotapova/mipt-comp-graph/dependencies-build/CMakeFiles/Assimp
+/Users/spotapova/mipt-comp-graph/dependencies-build/CMakeFiles/Assimp.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/CMakeFiles/Assimp-complete.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/Assimp/Assimp-install.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/Assimp/Assimp-mkdir.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/Assimp/Assimp-download.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/Assimp/Assimp-update.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/Assimp/Assimp-patch.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/Assimp/Assimp-configure.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Stamp/Assimp/Assimp-build.rule

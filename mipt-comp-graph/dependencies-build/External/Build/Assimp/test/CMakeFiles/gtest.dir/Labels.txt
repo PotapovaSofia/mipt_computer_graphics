@@ -1,0 +1,13 @@
+# Target labels
+ gtest
+# Source files and their labels
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Build/Assimp/test/CMakeFiles/gtest
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Build/Assimp/test/CMakeFiles/gtest.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Build/Assimp/test/CMakeFiles/gtest-complete.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Build/Assimp/test/gtest/src/gtest-stamp/gtest-install.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Build/Assimp/test/gtest/src/gtest-stamp/gtest-mkdir.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Build/Assimp/test/gtest/src/gtest-stamp/gtest-download.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Build/Assimp/test/gtest/src/gtest-stamp/gtest-update.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Build/Assimp/test/gtest/src/gtest-stamp/gtest-patch.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Build/Assimp/test/gtest/src/gtest-stamp/gtest-configure.rule
+/Users/spotapova/mipt-comp-graph/dependencies-build/External/Build/Assimp/test/gtest/src/gtest-stamp/gtest-build.rule
